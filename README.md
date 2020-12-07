@@ -2,6 +2,8 @@
 
 Contributors: Jack Jia, Landan Perry, Kenny Varghese
 
+THIS IS A TEST ENVIRONMENT. Make sure to add a new user first before logging in.    
+
 Objectives:         
 To create an android mobile application to address the problem at hand         
 Will track student progress as they complete academic objectives               
