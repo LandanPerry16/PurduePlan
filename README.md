@@ -10,8 +10,8 @@ Calculate what-if scenarios
 Option to include incoming freshmen
 Lower workload and reliance on academic advisors
 
-Languages: Java, XML
-Design & Tools: Android Studio, SQLLite, Agile Methodology
+Languages: Java, XML                    
+Design & Tools: Android Studio, SQLLite, Agile Methodology                         
 Source Code Control: GitHub
 
 Jack Jia: Front-end Design + functionality between classes
