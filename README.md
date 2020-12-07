@@ -14,6 +14,6 @@ Languages: Java, XML
 Design & Tools: Android Studio, SQLLite, Agile Methodology                         
 Source Code Control: GitHub
 
-Jack Jia: Front-end Design + functionality between classes
-Landan Perry: Updated design + added back-end functionality between classes
+Jack Jia: Front-end Design + functionality between classes                           
+Landan Perry: Updated design + added back-end functionality between classes                       
 Kenny Varghese :  Database design, creation, and implementation within classes  + updated front-end design and back-end functionality
